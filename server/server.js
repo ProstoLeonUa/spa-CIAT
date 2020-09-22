@@ -14,14 +14,8 @@ app.use(function (req, res, next) {
 	res.setHeader('Access-Control-Allow-Credentials', true);
 	next();
 });
-//app.use(express.static(__dirname + "/dist/"));
-//app.get(/.*/, function (req, res) {
-//	res
-//		.sendFile(__dirname + "/dist/index.html")
-//})
 
-
-const port = process.env.PORT || 4000;
+const port = 4000;
 
 app.listen(port, function () { // говорим на каком порту запускать нашу  NODE_JS  программу.
 	console.log(`Example app listening on port http://localhost:${port}/`);
