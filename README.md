@@ -1,5 +1,9 @@
 # spa
-port 4000
+DEMO https://afternoon-retreat-25751.herokuapp.com/login
+
+Email: test@test.com
+Password: 123
+
 ## Project setup
 ```
 npm install
