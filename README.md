@@ -1,5 +1,6 @@
 # spa
-DEMO https://afternoon-retreat-25751.herokuapp.com/login
+DEMO https://afternoon-retreat-25751.herokuapp.com
+
 
 Email: test@test.com
 Password: 123
