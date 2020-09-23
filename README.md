@@ -9,6 +9,7 @@ Password: 123
 ```
 npm install
 ```
+Start node server ( in terminal "cd server", then "node server")
 
 ### Compiles and hot-reloads for development
 ```
